@@ -1,7 +1,7 @@
 PEAR:pear.php.net/Date-1.4.7
 
-Git:git@github.com:kierate/anothertest.git checkouts/anothertest/
-Git:git@github.com:kierate/anothertest.git|branch|master checkouts/anothertest-master/
-Git:git@github.com:kierate/anothertest.git|branch|master|cedd7f4 checkouts/anothertest-master-cedd7f4/
-Git:git@github.com:kierate/anothertest.git|branch|release-1.0 checkouts/anothertest-release1.0/
-Git:git@github.com:kierate/anothertest.git|tag|release-1.0.1 checkouts/anothertest-release1.0.1/
+Git:git@github.com:kierate/wadf-git-test.git checkouts/wadf-git-test/
+Git:git@github.com:kierate/wadf-git-test.git|branch|master checkouts/wadf-git-test-master/
+Git:git@github.com:kierate/wadf-git-test.git|branch|master|cedd7f4 checkouts/wadf-git-test-master-cedd7f4/
+Git:git@github.com:kierate/wadf-git-test.git|branch|release-1.0 checkouts/wadf-git-test-release1.0/
+Git:git@github.com:kierate/wadf-git-test.git|tag|release-1.0.1 checkouts/wadf-git-test-release1.0.1/
